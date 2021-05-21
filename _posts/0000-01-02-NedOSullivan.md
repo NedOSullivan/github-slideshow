@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+It has rained for three weeks straight in summer 😀
 Use the left arrow to go back!
